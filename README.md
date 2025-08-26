@@ -27,7 +27,7 @@
   <!-- 前端 -->
   <!-- 后端 -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,docker,git,github,idea,vscode,linux,latex" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,docker,git,github,vscode,linux,latex，nodejs" />
   </a>
 </p>
 <!-- 
