@@ -42,8 +42,7 @@
 
 <p align="center">
   <!-- 替换下面的 "[你的GitHub用户名]" 为你的 GitHub 用户名 -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skylarkkkk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skylarkkkk&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingerze&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skylarkkkk&theme=dracula" alt="Skylarkkkk" />
