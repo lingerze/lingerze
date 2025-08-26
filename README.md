@@ -13,10 +13,10 @@
 
 <!-- 2. 个人简介 -->
 <h1 align="center">
-  Hi there, I'm Skylarkkkk 👋
+  Hi there, I'm Lingerze 👋
 </h1>
 <p align="center">
-  <em>A passionate Student from SYSU📍</em><br>
+  <em>A passionate Reseacher from SYSU📍</em><br>
 </p>
 
 ---
