@@ -45,7 +45,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingerze&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skylarkkkk&theme=dracula" alt="Skylarkkkk" />
 </p>
 <!-- 
   想了解更多主题和自定义选项吗?
