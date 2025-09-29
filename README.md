@@ -62,17 +62,3 @@
 - 😄 &nbsp; 趣闻: `[关于你的一个有趣的事实]`
 -->
 
-
-### 🏆 GitHub Trophies
-
-<!-- 
-  感谢您使用此模板！
-  最后，放一个有趣的 GitHub 小蛇动画来结束吧！
--->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skylarkkkk/Skylarkkkk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skylarkkkk/Skylarkkkk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Skylarkkkk/Skylarkkkk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
